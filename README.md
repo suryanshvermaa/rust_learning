@@ -29,7 +29,7 @@ rust\_learning/
 1. Navigate to a specific project folder:
    ```bash
    cd guessing_game
-````
+    ```
 
 2. Run using Cargo:
 
